@@ -1,0 +1,19 @@
+\documentclass{article}
+
+\usepackage{graphics}
+
+\begin{document}
+
+\title{introduction to \lLatex{}}
+\author{roban}
+\maketitle
+\begin{abstract}
+this is the document of project management database
+\end{abstract}
+\section{introduction}
+this is the architectural blueprint for my PMd.
+\subsection{Javascript coding design}
+\section{conclusion}
+BYE
+
+\end{document}
